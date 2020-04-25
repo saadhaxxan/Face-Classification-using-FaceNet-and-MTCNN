@@ -12,7 +12,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
 ## Usage
-[x] Installing requirements and dependencies
+[] Installing requirements and dependencies
 ```
 git clone https://github.com/saadhaxxan/Face-Classification-using-FaceNet-and-MTCNN.git
 cd Face-Classification-using-FaceNet-and-MTCNN
