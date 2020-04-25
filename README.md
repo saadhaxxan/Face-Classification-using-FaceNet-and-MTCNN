@@ -26,7 +26,7 @@ python extract_faces.py
 ```
 python face_embeddings.py
 ```
-4. Classifying Faces to their respectivE eclasses using Linear Support Vector Machine
+4. Classifying Faces to their respective classes using Linear Support Vector Machine
 ```
 python face_classification.py
 ```
