@@ -16,7 +16,7 @@
 ```
 git clone https://github.com/saadhaxxan/Face-Classification-using-FaceNet-and-MTCNN.git
 cd Face-Classification-using-FaceNet-and-MTCNN
-pip install -r requirements.txt
+pip install --user -r requirements.txt
 ```
 2.Extracting Faces from Dataset using MTCNN
 ```
