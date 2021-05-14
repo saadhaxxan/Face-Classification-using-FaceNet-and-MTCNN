@@ -12,21 +12,25 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
 ## Usage
-1.Installing requirements and dependencies
+
+Installing requirements and dependencies
 ```
 git clone https://github.com/saadhaxxan/Face-Classification-using-FaceNet-and-MTCNN.git
 cd Face-Classification-using-FaceNet-and-MTCNN
 pip install --user -r requirements.txt
 ```
-2.Extracting Faces from Dataset using MTCNN
+
+Extracting Faces from Dataset using MTCNN
 ```
 python extract_faces.py
 ```
-3. Extracting Face Embeding from the Dataset using FaceNet Model.
+
+Extracting Face Embeding from the Dataset using FaceNet Model.
 ```
 python face_embeddings.py
 ```
-4. Classifying Faces to their respective classes using Linear Support Vector Machine
+
+Classifying Faces to their respective classes using Linear Support Vector Machine
 ```
 python face_classification.py
 ```
